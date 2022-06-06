@@ -1,0 +1,23 @@
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "description": "creating a server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "WAAW",
+    "Shaa"
+  ],
+  "author": "ekunkemoney",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
